@@ -1,6 +1,6 @@
 {
     "name": "react-native-location-permissions",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "A simple and easy to use location permissions library for React Native.",
     "main": "index.js",
     "repository": {
